@@ -2,6 +2,9 @@
 # Created by https://www.gitignore.io/api/osx,sass,jekyll
 # Edit at https://www.gitignore.io/?templates=osx,sass,jekyll
 
+.idea
+node_modules
+
 ### Jekyll ###
 _site/
 .sass-cache/
